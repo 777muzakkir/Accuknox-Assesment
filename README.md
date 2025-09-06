@@ -7,7 +7,7 @@ This repository contains my assignment submission for the **Security Officer Tra
 
 I performed the vulnerability assessment using **two different approaches**:
 
-1. **Linux Environment (Open-Source Tools)** → Tools like *Nmap, Nikto, OpenSSL, cURL*.
+1. **Linux Environment (Open-Source Tools)** → Open-Source Tools like *Nmap, Nikto, OpenSSL, cURL*.
 2. **Windows Environment (Nessus Vulnerability Scanner)**.
 
 Both methods are documented and demonstrated separately for clarity.
@@ -32,8 +32,8 @@ Both methods are documented and demonstrated separately for clarity.
 
   * Contains direct links to the practical demonstration videos.
 
-    * [Linux VA Video (Google Drive)](Your_Link_Here)
-    * [Nessus VA Video (Google Drive)](Your_Link_Here)
+    * [Linux VA Video (Google Drive)](https://drive.google.com/file/d/1pFnhh022vOTPhVPnoRT_ovLZhETL08Gd/view?usp=sharing)
+    * [Nessus VA Video (Google Drive)](https://drive.google.com/file/d/1-Prlv_nuJc29zD9kBjskqQNVMcDoz1X8/view?usp=sharing)
 
 
 ## 📝 Notes
