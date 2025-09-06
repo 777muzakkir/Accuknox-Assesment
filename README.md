@@ -3,9 +3,9 @@
 This repository contains my assignment submission for the Security Officer Trainee role at Accuknox.
 
 ## 📂 Contents
-- **Report/** → Detailed Vulnerability Assessment Report (PDF format)
+- **Report/** → Detailed Vulnerability Assessment Report (PDF format) NOTE:- There are Two Reports : 1st done in Linux Environment using open-source tools like Nmap, Nikto & OpenSSL && 2nd done using Nessus Vulnerability Scanner in Windows Environment.
 - **Resume/** → My updated resume
-- **Video_Link.txt** → Link to the practical demonstration video (Google Drive)
+- **Video_Link.txt** → Link to the practical demonstration video (Google Drive) NOTE:- There are Two Reports : 1st done in Linux Environment using open-source tools like Nmap, Nikto & OpenSSL && 2nd done using Nessus Vulnerability Scanner in Windows Environment.
 
 ## 🎥 Video Demonstration
 The full demonstration video can be accessed here:  
