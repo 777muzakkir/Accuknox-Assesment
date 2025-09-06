@@ -1,17 +1,62 @@
-# Vulnerability Assessment - itsecgames.com
 
-This repository contains my assignment submission for the Security Officer Trainee role at Accuknox.
+# Vulnerability Assessment – itsecgames.com
 
-## 📂 Contents
-- **Report/** → Detailed Vulnerability Assessment Report (PDF format) NOTE:- There are Two Reports : 1st done in Linux Environment using open-source tools like Nmap, Nikto & OpenSSL && 2nd done using Nessus Vulnerability Scanner in Windows Environment.
-- **Resume/** → My updated resume
-- **Video_Link.txt** → Link to the practical demonstration video (Google Drive) NOTE:- There are Two Videos : 1st done in Linux Environment using open-source tools like Nmap, Nikto & OpenSSL && 2nd done using Nessus Vulnerability Scanner in Windows Environment.
+This repository contains my assignment submission for the **Security Officer Trainee role at Accuknox**.
+
+## 📌 Overview
+
+I performed the vulnerability assessment using **two different approaches**:
+
+1. **Linux Environment (Open-Source Tools)** → Tools like *Nmap, Nikto, OpenSSL, cURL*.
+2. **Windows Environment (Nessus Vulnerability Scanner)**.
+
+Both methods are documented and demonstrated separately for clarity.
+
+---
+
+## 📂 Repository Contents
+
+* **Report/**
+
+  * `Linux_VA_Report.pdf` → Detailed report using *Nmap, Nikto, OpenSSL, cURL*.
+  * `Nessus_VA_Report.pdf` → Detailed report using *Nessus Vulnerability Scanner*.
+
+* **Resume/**
+
+  * `Syed_Muzakkir_Shah_Resume.pdf` → My updated resume.
+
+* **Video\_Link.txt**
+
+  * Contains direct links to the practical demonstration videos.
+
+    * [Linux VA Video (Google Drive)](Your_Link_Here)
+    * [Nessus VA Video (Google Drive)](Your_Link_Here)
+
+---
 
 ## 🎥 Video Demonstration
-The full demonstration video can be accessed here:  
-[Google Drive Video Link](PASTE_YOUR_DRIVE_LINK_HERE)
+
+You can directly access the demonstration videos below:
+
+* **Linux Method (Open-Source Tools)** → [Watch Here](Your_Link_Here)
+* **Windows Method (Nessus)** → [Watch Here](Your_Link_Here)
+
+---
 
 ## 📝 Notes
-- All tools used were run in a controlled lab environment (Linux).  
-- Tools: Nmap, Nikto, cURL, OpenSSL.  
-- The report includes methodology, findings, risks, and recommendations.
+
+* All tools were executed in a **controlled lab environment**.
+* Tools Used:
+
+  * *Linux*: Nmap, Nikto, OpenSSL, cURL
+  * *Windows*: Nessus Vulnerability Scanner
+* The reports cover:
+
+  * Methodology
+  * Findings
+  * Risk Analysis
+  * Recommendations
+
+---
+
+Do you want me to make this in **Markdown README format** (so you can directly put in your GitHub repo) or as a **project description text** for submission?
