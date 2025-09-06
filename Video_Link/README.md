@@ -5,4 +5,4 @@
     * [Linux VA Video (Google Drive)](https://drive.google.com/file/d/1pFnhh022vOTPhVPnoRT_ovLZhETL08Gd/view?usp=sharing)
     * [Nessus VA Video (Google Drive)](https://drive.google.com/file/d/1-Prlv_nuJc29zD9kBjskqQNVMcDoz1X8/view?usp=sharing)
 
-
+`NOTE: If the video does not load or play correctly, please refresh the page and try again. Alternatively, you can navigate back and reopen the video.`
