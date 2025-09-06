@@ -18,8 +18,8 @@ The assessment was performed using **two different methods** to ensure comprehen
 
 * **Nessus/**
 
-  *   1) `Nessus_WebApp_Scan.pdf`
-      2) `Nessus_BasicNetwork_Scan.pdf`
+  *   1) `Nessus_WebApp_ScanReport.pdf`
+      2) `Nessus_BasicNetwork_ScanReport.pdf`
 
          → Conducted in a **Windows environment** using **Nessus Vulnerability Scanner**.
 
