@@ -19,11 +19,14 @@ Both methods are documented and demonstrated separately for clarity.
 * **Report/**
 
   * `Linux_VA_Report.pdf` → Detailed report using *Nmap, Nikto, OpenSSL, cURL*.
-  * `Nessus_VA_Report.pdf` → Detailed report using *Nessus Vulnerability Scanner*.
+
+  * `Nessus_WebApp_ScanReport.pdf`
+    `Nessus_BasicNetwork_ScanReport.pdf`
+    → Detailed report using *Nessus Vulnerability Scanner*.
 
 * **Resume/**
 
-  * `Syed_Muzakkir_Shah_Resume.pdf` → My updated resume.
+  * `syed_muzakkir_sh.pdf` → My updated resume.
 
 * **Video_Link**
 
@@ -35,7 +38,6 @@ Both methods are documented and demonstrated separately for clarity.
 
 ## 📝 Notes
 
-* All tools were executed in a **controlled lab environment**.
 * Tools Used:
 
   * *Linux*: Nmap, Nikto, OpenSSL, cURL
@@ -47,6 +49,3 @@ Both methods are documented and demonstrated separately for clarity.
   * Risk Analysis
   * Recommendations
 
----
-
-Do you want me to make this in **Markdown README format** (so you can directly put in your GitHub repo) or as a **project description text** for submission?
