@@ -18,7 +18,9 @@ The assessment was performed using **two different methods** to ensure comprehen
 
 * **Nessus/**
 
-  * `Nessus_VA_Report.pdf` → Conducted in a **Windows environment** using **Nessus Vulnerability Scanner**.
+  * 1) Nessus_WebApp_Scan.pdf
+    2) Nessus_BasicNetwork_Scan.pdf
+                                      → Conducted in a **Windows environment** using **Nessus Vulnerability Scanner**.
 
     * **Web Application Scan** → To identify vulnerabilities in the web layer.
     * **Basic Network Scan** → To detect open ports, services, and related network-level issues.
