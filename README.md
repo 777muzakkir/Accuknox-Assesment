@@ -25,23 +25,13 @@ Both methods are documented and demonstrated separately for clarity.
 
   * `Syed_Muzakkir_Shah_Resume.pdf` → My updated resume.
 
-* **Video\_Link.txt**
+* **Video_Link**
 
   * Contains direct links to the practical demonstration videos.
 
     * [Linux VA Video (Google Drive)](Your_Link_Here)
     * [Nessus VA Video (Google Drive)](Your_Link_Here)
 
----
-
-## 🎥 Video Demonstration
-
-You can directly access the demonstration videos below:
-
-* **Linux Method (Open-Source Tools)** → [Watch Here](Your_Link_Here)
-* **Windows Method (Nessus)** → [Watch Here](Your_Link_Here)
-
----
 
 ## 📝 Notes
 
